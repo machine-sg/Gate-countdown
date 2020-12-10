@@ -1,0 +1,57 @@
+/*.back{
+    padding: 50px 10% 10% 10%;
+    background-color: antiquewhite;
+    height: 250px;
+    width: 250px;
+    margin-top: 100px;
+    margin-left: 400px;
+    font-size: 40px;
+    text-align: center;
+    background-image: url("../New_year.jpg");
+    background-repeat: none;
+    background-size: cover;
+    font-family: cursive;
+    color: lightpink;
+}
+
+.clock { 
+    font-size: 40px; 
+    width: 250px; 
+    margin-left: 1%;
+    margin-top: 20%;
+    text-align: center; 
+    border: 2px solid white; 
+    border-radius: 20px; 
+    color: white;
+} */
+
+.back{
+    padding: 50px 10% 10% 10%;
+    background-color: blanchedalmond;
+    height: 250px;
+    width: 350px;
+    margin-top: 100px;
+    margin-left: 350px;
+    font-size: 35px;
+    font-weight: bold;
+    text-align: left;
+    /*background-image: url("../New_year.jpg");*/
+    background-repeat: none;
+    background-size: cover;
+    font-family: cursive;
+    align-items: center;
+    border: darkmagenta 3px solid;
+    box-shadow: magenta 3px 3px 4px;
+}
+
+.clock { 
+    font-size: 45px; 
+    font-weight: bold;
+    width: 250px; 
+    margin-left: 1%;
+    margin-top: 20%;
+    text-align: center; 
+    /*border: 2px solid white; 
+    border-radius: 20px; */
+    color: red;
+}
